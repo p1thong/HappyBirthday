@@ -1,6 +1,6 @@
 const contentLetterSrart_actived = "triu.mei" //Lời mở đầu cho bức thư
 // const mainContentLetter = "Gửi lời nhắn nhủ đến người bạn bạn yêu thương." //Nội dung của bức thư
-const mainContentLetter = "Chẳng biết chúc gì, thôi thì chúc mừng sinh nhật Chịu Mí."
+const mainContentLetter = "Chúc Mừng Sinh Nhật."
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
 imgStart.src = "./img/cute-young-boy-kid-wearing-vest-and-hat-free-png.png";
